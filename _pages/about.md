@@ -14,7 +14,9 @@ Previously, I obtained my bachelor's degree in Remote Sensing Science and Techno
 
 News
 ------
-2024.06 Happy Graduation!  
-2024.03 One paper is accepted by [IGARSS 2024](https://2024.ieeeigarss.org/index.php) (As an Oral Presentation)!  
-2022.11 One paper is accepted by [Remote Sensing](https://www.mdpi.com/journal/remotesensing)!  
-2022.05 One paper is accepted by [Proceedings of the 8th China High Resolution Earth Observation Conference](https://chn.oversea.cnki.net/KNavi/DPaperDetail?pcode=CIPD&lwjcode=KTXX202205001&hycode=KTXX202205001)!  
+🚀2024.09 A new academic journey begins at Imperial College London!  
+🎊2024.06 Happy Graduation!  
+📢2024.03 One paper is accepted by [IGARSS 2024](https://2024.ieeeigarss.org/index.php) (As an Oral Presentation)!  
+📢2022.11 One paper is accepted by [Remote Sensing](https://www.mdpi.com/journal/remotesensing)!  
+📢2022.05 One paper is accepted by [Proceedings of the 8th China High Resolution Earth Observation Conference](https://chn.oversea.cnki.net/KNavi/DPaperDetail?pcode=CIPD&lwjcode=KTXX202205001&hycode=KTXX202205001)!  
+🚀2020.09 The academic journey begins at Sun Yat-sen University!
