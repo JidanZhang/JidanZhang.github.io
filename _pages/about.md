@@ -16,7 +16,7 @@ News
 ------
 🎊2025.11 Graduated from Imperial College London with Distinction!   
 📢2025.09 One paper is accepted by [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)!  
-📢2025.08 The abstract of my independent research is selected for Imperial [Ada Lovelace Academy](https://www.imperial.ac.uk/ada-lovelace-academy/) Launch (As a Poster Presentation)!   
+📢2025.08 The abstract of my independent research project is selected for Imperial [Ada Lovelace Academy](https://www.imperial.ac.uk/ada-lovelace-academy/) Launch (As a Poster Presentation)!   
 📢2025.07 One paper is accepted by [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)!  
 🚀2024.09 A new academic journey begins at Imperial College London!  
 🎊2024.06 Happy Graduation from Sun Yat-sen University!  
